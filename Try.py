@@ -57,3 +57,5 @@ while True:
             speak("I didn't catch that.")
             last_response_unknown = True  # Set the flag after speaking
     time.sleep(1)
+
+blink="dummy testing"
